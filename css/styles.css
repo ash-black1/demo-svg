@@ -1,1 +1,11 @@
-/* developer styles go here */
+.flex-container {
+    display: flex;
+}
+
+svg {
+    fill: rgb(69, 224, 69);
+}
+
+svg:hover {
+    fill: indigo;
+}
